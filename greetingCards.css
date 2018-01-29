@@ -1,0 +1,8 @@
+#card {
+    position: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 3em;
+}
